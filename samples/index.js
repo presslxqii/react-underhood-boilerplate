@@ -1,3 +1,5 @@
+/** @jsx OwnReact.render */
+
 import OwnReact from "../src";
 import App from "./App";
 
